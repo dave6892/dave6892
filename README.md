@@ -15,28 +15,39 @@ I'm a passionate Software Engineer with deep expertise in **Data Engineering**, 
 
 ### 🛠️ Tech Stack & Expertise
 
-**Languages & Frameworks:**
-- 🐍 Python (Advanced) - My go-to language
-- 🐚 Shell Scripting (Fish, Bash)
-- 🧮 SQL & Data Query Languages
-
-**Data & ML Stack:**
-- 📊 Apache Airflow (DAG orchestration)
-- 🤖 Machine Learning & AI/LLM pipelines
-- 🏗️ Data Lakehouse & Modern Data Stack
-- 📈 Jupyter Notebooks & Data Analysis
-
-**Infrastructure & DevOps:**
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes & Control Plane
-- 🔧 GitHub Actions & CI/CD
-- 🛠️ Development Environment Setup
-
-**Tools & Practices:**
-- 📦 Modern Python tooling (Hatch, PDM, UV, Poetry)
-- 🔍 Pre-commit hooks & Code Quality
-- 📝 MkDocs & Documentation
-- 🎯 Template-driven development
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Languages & Frameworks:</strong><br>
+      • 🐍 Python (Advanced) - My go-to language<br>
+      • 🐚 Shell Scripting (Fish, Bash)<br>
+      • 🧮 SQL & Data Query Languages
+    </td>
+    <td width="50%" valign="top">
+      <strong>Data & ML Stack:</strong><br>
+      • 📊 Apache Airflow (DAG orchestration)<br>
+      • 🤖 Machine Learning & AI/LLM pipelines<br>
+      • 🏗️ Data Lakehouse & Modern Data Stack<br>
+      • 📈 Jupyter Notebooks & Data Analysis
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Infrastructure & DevOps:</strong><br>
+      • 🐳 Docker & Containerization<br>
+      • ☸️ Kubernetes & Control Plane<br>
+      • 🔧 GitHub Actions & CI/CD<br>
+      • 🛠️ Development Environment Setup
+    </td>
+    <td width="50%" valign="top">
+      <strong>Tools & Practices:</strong><br>
+      • 📦 Modern Python tooling (Hatch, PDM, UV, Poetry)<br>
+      • 🔍 Pre-commit hooks & Code Quality<br>
+      • 📝 MkDocs & Documentation<br>
+      • 🎯 Template-driven development
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 

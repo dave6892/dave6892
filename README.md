@@ -1,8 +1,5 @@
 # Hey there! 👋 I'm Dave L
 
-**Software Engineer & Tech Lead** at [Apalis](https://github.com/ApalisTechnology) 🚀
-📍 Ottawa, Ontario, Canada
-
 ## 🎯 About Me
 
 I'm a passionate Software Engineer with deep expertise in **Data Engineering**, **Machine Learning**, **AI/LLMs**, and **Infrastructure**. As a software engineer at Apalis, I architect and build modern cloud-native applications, scalable data solutions, and AI-first systems that transform business operations.

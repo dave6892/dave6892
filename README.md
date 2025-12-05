@@ -2,12 +2,12 @@
 
 ## 🎯 About Me
 
-I'm a passionate Software Engineer with deep expertise in **Data Engineering**, **Machine Learning**, **AI/LLMs**, and **Infrastructure**. As a software engineer at Apalis, I architect and build modern cloud-native applications, scalable data solutions, and AI-first systems that transform business operations.
+I'm a Software Engineer who likes to build stuff.
 
 ### 🌱 Currently Learning & Exploring
 - 🤖 **AI & Large Language Models (LLMs)**
 - 🏗️ **Data Lakehouse architectures**
-- ☁️ **Infrastructure & Kubernetes** (especially Control Plane)
+- ☁️ **Infrastructure & Kubernetes**
 - 🐍 **Advanced Python ecosystem** (always learning something new!)
 
 ### 🛠️ Tech Stack & Expertise

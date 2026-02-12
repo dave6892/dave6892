@@ -51,9 +51,6 @@ I'm a Software Engineer who likes to build stuff.
 ### 🔗 [cpln-py](https://github.com/dave6892/cpln-py)
 A Python library for the Control Plane API - making Kubernetes management more accessible and programmatic.
 
-### ⚙️ [dev-setup](https://github.com/dave6892/dev-setup) & [dotfiles](https://github.com/dave6892/dotfiles)
-My development environment configuration - helping teams get up and running quickly with consistent tooling.
-
 ## 🎨 Fun Facts & Interests
 
 - 🧠 **Pattern Recognition Enthusiast** - I love finding elegant solutions to complex data problems
